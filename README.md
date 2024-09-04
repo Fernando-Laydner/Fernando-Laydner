@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Fernando-Laydner
 - 👀 I’m interested in automations, data-analysis, web-scrapping, AI, ...
-- 🌱 I’m currently learning MySQL and Selenium
+- 🌱 I’m currently working with Python and Selenium
 - 📫 How to reach me:
     - Email: fkjunior@inf.ufsm.br
 
